@@ -1,0 +1,7 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "testmod:tin_ore_placed",
+  "step": "underground_ores"
+
+}

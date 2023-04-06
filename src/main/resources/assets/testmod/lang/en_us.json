@@ -1,0 +1,36 @@
+{
+  "item.testmod.aluminum_ingot": "Aluminum Ingot",
+  "block.testmod.aluminum_block": "Aluminum Block",
+  "block.testmod.deepslate_aluminum_ore": "Deepslate Aluminum Ore",
+
+  "block.testmod.tin_block": "Tin Block",
+  "block.testmod.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.testmod.tin_ore": "Tin Ore",
+
+  "block.testmod.deepslate_titanium_ore": "Titanium Ore",
+  "item.testmod.titanium_ingot": "Titanium Ingot",
+  "item.testmod.compressed_titanium": "Compressed Titanium",
+  "item.testmod.titanium_pickaxe": "Titanium Pickaxe",
+  "item.testmod.titanium_sword": "Titanium Sword",
+  "item.testmod.titanium_axe": "Titanium Axe",
+  "item.testmod.titanium_shovel": "Titanium Shovel",
+  "item.testmod.titanium_hoe": "Titanium Hoe",
+
+  "block.testmod.nether_cobalt_ore": "Cobalt Ore",
+  "item.testmod.cobalt_ingot": "Cobalt Ingot",
+  "item.testmod.cobalt_pickaxe": "Cobalt Pickaxe",
+  "item.testmod.cobalt_sword": "Cobalt Sword",
+  "item.testmod.cobalt_shovel": "Cobalt Shovel",
+
+  "block.testmod.endstone_osmium_ore": "Osmium Ore",
+  "item.testmod.osmium_ingot": "Osmium Ingot",
+  "item.testmod.compressed_osmium": "Compressed Osmium",
+  "item.testmod.osmium_pickaxe": "Osmium Pickaxe",
+  "item.testmod.osmium_axe": "Osmium Axe",
+  "item.testmod.osmium_hoe": "Osmium Hoe",
+  "item.testmod.osmium_shovel": "Osmium Shovel",
+  "item.testmod.osmium_sword": "Osmium Sword",
+
+  "block.testmod.compressor": "Compressor",
+  "itemGroup.testTab": "Test Tab"
+}

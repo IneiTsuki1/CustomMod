@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:nether_cobalt_ore",
+    "testmod:deepslate_titanium_ore",
+    "testmod:endstone_osmium_ore"
+  ]
+}
